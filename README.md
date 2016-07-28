@@ -2,6 +2,9 @@
 Use this code exampe as a guideline for making the program for mail.ru email fetching.
 This example connects to pop3 server, fetches all emails and outputs the basic email information (ID, Size, From, Subject, Date).
 
+## Requirements
+Microsoft Visual Studio 2012 or higher
+
 ## Installation
 1. Clone the repository to your computer or download and extract zip file.
 2. Open and build solution.
