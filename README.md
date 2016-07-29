@@ -9,6 +9,7 @@ Microsoft Visual Studio 2012 or higher
 1. Clone the repository to your computer or download and extract zip file.
 2. Open and build solution.
 3. Go to Release (or Debug) folder and run `mailru_demo.exe`.
+4. If program not run, try to install MSVC 2015 redistibutables https://www.microsoft.com/en-US/download/details.aspx?id=48145
 
 ## Usage
 Run program with 2 parameters: `mailru_demo.exe email password`
